@@ -1,0 +1,53 @@
+{
+    "1":{
+      "name": "Kahani Suno 2.O",
+      "path": "IP/Kahani Suno 2.0 - Kaifi Khalil 128 Kbps.mp3",
+      "image": "images/1.jpeg"
+     }
+     ,
+    "2":{
+      "name": "Mi Amor",
+      "path": "IP/Mi-Amor-Sharn(PaglaSongs).mp3",
+      "image": "images/2.jpeg"
+    },
+    "3":{
+      "name": "MockingBird",
+      "path": "IP/Mockingbird - Eminem_128-(DJMaza).mp3",
+      "image": "images/3.jpeg"
+    },
+    "4":{
+      "name": "Traitor",
+      "path": "IP/Olivia_Rodrigo_-_traitor.mp3",
+      "image": "images/4.jpeg"
+    },
+    "5":{
+      "name": "As It was",
+      "path": "IP/As-It-Was(PagalWorld).mp3",
+      "image": "images/5.jpeg"
+    },
+    "6":{
+      "name": "Out of time",
+      "path": "IP/The_Weeknd_-_Out_of_Time.mp3",
+      "image": "images/6.jpeg"
+    },
+    "7":{
+      "name": "We fell in love in october",
+      "path": "IP/girl_in_red_-_we_fell_in_love_in_october.mp3",
+      "image": "images/7.jpg"
+    },
+    "8":{
+      "name": "Before you go",
+      "path": "IP/Lewis_Capaldi_-_Before_You_Go_CeeNaija.com_.mp3",
+      "image": "images/8.jpg"
+    },
+    "9":{
+      "name": "Ja Tujhko",
+      "path": "IP/Ja Tujhko.mp3",
+      "image": "images/9.jpg"
+    },
+    "10":{
+      "name": "Jogi",
+      "path": "IP/Jogi - Various.mp3",
+      "image": "images/10.jpg"
+    }
+}
